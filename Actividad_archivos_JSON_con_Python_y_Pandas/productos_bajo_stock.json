@@ -1,0 +1,14 @@
+[
+    {
+        "Producto":"Mouse",
+        "Precio":50,
+        "Cantidad":3,
+        "Valor_Total":150
+    },
+    {
+        "Producto":"Monitor",
+        "Precio":900,
+        "Cantidad":2,
+        "Valor_Total":1800
+    }
+]

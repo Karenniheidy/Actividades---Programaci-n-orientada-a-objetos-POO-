@@ -1,0 +1,8 @@
+[
+ { "Vendedor": "Ana Isabel",   "Mes": "Enero",   "Ventas": 12000 },
+ { "Vendedor": "Karen Niheidy",  "Mes": "Enero",   "Ventas": 15000 },
+ { "Vendedor": "Ana Isabel",   "Mes": "Febrero", "Ventas": 18000 },
+ { "Vendedor": "Jakub David", "Mes": "Febrero", "Ventas": 9000 },
+ { "Vendedor": "Karen Niheidy",  "Mes": "Marzo",   "Ventas": 21000 },
+ { "Vendedor": "Jakub David", "Mes": "Marzo",   "Ventas": 11000 }
+]

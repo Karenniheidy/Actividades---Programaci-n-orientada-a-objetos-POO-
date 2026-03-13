@@ -1,0 +1,7 @@
+[
+    { "Producto": "Laptop",  "Precio": 3500, "Cantidad": 10 },
+    { "Producto": "Mouse",   "Precio": 50,   "Cantidad": 3  },
+    { "Producto": "Teclado", "Precio": 120,  "Cantidad": 7  },
+    { "Producto": "Monitor", "Precio": 900,  "Cantidad": 2  },
+    { "Producto": "USB",     "Precio": 30,   "Cantidad": 15 }
+]

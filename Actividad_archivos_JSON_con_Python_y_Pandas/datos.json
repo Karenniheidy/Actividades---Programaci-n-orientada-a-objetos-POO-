@@ -1,0 +1,17 @@
+[
+    {
+        "Nombre":"David Isaac",
+        "Edad":40,
+        "Ciudad":"Manizales"
+    },
+    {
+        "Nombre":"María de los Ángeles",
+        "Edad":28,
+        "Ciudad":"Medellín"
+    },
+    {
+        "Nombre":"Karen Niheidy",
+        "Edad":26,
+        "Ciudad":"Manizales"
+    }
+]
