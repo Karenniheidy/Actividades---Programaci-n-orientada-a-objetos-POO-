@@ -1,0 +1,200 @@
+[
+    {
+        "nombre":"Yulimar Rojas (Invitada)",
+        "edad":30,
+        "sexo":"Femenino",
+        "estatura":1.92,
+        "peso":72,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Daniel Galán",
+        "edad":29,
+        "sexo":"Masculino",
+        "estatura":1.91,
+        "peso":82,
+        "deporte":"Tenis",
+        "ciudad_residencia":"Bucaramanga"
+    },
+    {
+        "nombre":"Mateo Cassierra",
+        "edad":28,
+        "sexo":"Masculino",
+        "estatura":1.86,
+        "peso":79,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Barbacoas"
+    },
+    {
+        "nombre":"Davinson Sánchez",
+        "edad":29,
+        "sexo":"Masculino",
+        "estatura":1.87,
+        "peso":81,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Caloto"
+    },
+    {
+        "nombre":"Jhon Janer Lucumí",
+        "edad":27,
+        "sexo":"Masculino",
+        "estatura":1.87,
+        "peso":84,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Kevin Mier",
+        "edad":25,
+        "sexo":"Masculino",
+        "estatura":1.9,
+        "peso":80,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Barrancabermeja"
+    },
+    {
+        "nombre":"Álvaro Montero",
+        "edad":30,
+        "sexo":"Masculino",
+        "estatura":1.96,
+        "peso":92,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"El Molino"
+    },
+    {
+        "nombre":"Yerry Mina",
+        "edad":31,
+        "sexo":"Masculino",
+        "estatura":1.95,
+        "peso":94,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Guachené"
+    },
+    {
+        "nombre":"Duvan Zapata",
+        "edad":34,
+        "sexo":"Masculino",
+        "estatura":1.89,
+        "peso":88,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Padilla"
+    },
+    {
+        "nombre":"Yaser Asprilla",
+        "edad":22,
+        "sexo":"Masculino",
+        "estatura":1.86,
+        "peso":74,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Bajo Baudó"
+    },
+    {
+        "nombre":"Andrés Llinás",
+        "edad":28,
+        "sexo":"Masculino",
+        "estatura":1.88,
+        "peso":81,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Juan Pablo Vargas",
+        "edad":30,
+        "sexo":"Masculino",
+        "estatura":1.92,
+        "peso":84,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Mario Yepes",
+        "edad":50,
+        "sexo":"Masculino",
+        "estatura":1.86,
+        "peso":83,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Faryd Mondragón",
+        "edad":54,
+        "sexo":"Masculino",
+        "estatura":1.91,
+        "peso":95,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Omar Pinzón",
+        "edad":36,
+        "sexo":"Masculino",
+        "estatura":1.9,
+        "peso":84,
+        "deporte":"Natación",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Geiner Moreno",
+        "edad":25,
+        "sexo":"Masculino",
+        "estatura":1.88,
+        "peso":79,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Cartagena"
+    },
+    {
+        "nombre":"Mauricio Ortega",
+        "edad":31,
+        "sexo":"Masculino",
+        "estatura":1.93,
+        "peso":115,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Apartadó"
+    },
+    {
+        "nombre":"Juan David Cabal",
+        "edad":25,
+        "sexo":"Masculino",
+        "estatura":1.86,
+        "peso":80,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Devis Vasquez",
+        "edad":27,
+        "sexo":"Masculino",
+        "estatura":1.95,
+        "peso":90,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Barranquilla"
+    },
+    {
+        "nombre":"Luis Marquinez",
+        "edad":22,
+        "sexo":"Masculino",
+        "estatura":1.87,
+        "peso":80,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Tumaco"
+    },
+    {
+        "nombre":"Alejandro Rodriguez",
+        "edad":25,
+        "sexo":"Masculino",
+        "estatura":1.86,
+        "peso":81,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Panamá (Res. Cali)"
+    },
+    {
+        "nombre":"Diber Cambindo",
+        "edad":30,
+        "sexo":"Masculino",
+        "estatura":1.88,
+        "peso":83,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Guachené"
+    }
+]

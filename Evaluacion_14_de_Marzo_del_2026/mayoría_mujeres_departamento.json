@@ -1,0 +1,74 @@
+[
+    {
+        "Departamento":"Cauca",
+        "Cantidad_Votantes_Hombres":1200,
+        "Cantidad_Votantes_Mujeres":2400,
+        "Total":3600,
+        "% Hombres":0.3333333333,
+        "% Mujeres":0.6666666667
+    },
+    {
+        "Departamento":"Antioquia",
+        "Cantidad_Votantes_Hombres":8500,
+        "Cantidad_Votantes_Mujeres":9100,
+        "Total":17600,
+        "% Hombres":0.4829545455,
+        "% Mujeres":0.5170454545
+    },
+    {
+        "Departamento":"Valle del Cauca",
+        "Cantidad_Votantes_Hombres":7200,
+        "Cantidad_Votantes_Mujeres":7600,
+        "Total":14800,
+        "% Hombres":0.4864864865,
+        "% Mujeres":0.5135135135
+    },
+    {
+        "Departamento":"Cundinamarca",
+        "Cantidad_Votantes_Hombres":6400,
+        "Cantidad_Votantes_Mujeres":7000,
+        "Total":13400,
+        "% Hombres":0.4776119403,
+        "% Mujeres":0.5223880597
+    },
+    {
+        "Departamento":"Tolima",
+        "Cantidad_Votantes_Hombres":3800,
+        "Cantidad_Votantes_Mujeres":4200,
+        "Total":8000,
+        "% Hombres":0.475,
+        "% Mujeres":0.525
+    },
+    {
+        "Departamento":"Nariño",
+        "Cantidad_Votantes_Hombres":3000,
+        "Cantidad_Votantes_Mujeres":3600,
+        "Total":6600,
+        "% Hombres":0.4545454545,
+        "% Mujeres":0.5454545455
+    },
+    {
+        "Departamento":"Meta",
+        "Cantidad_Votantes_Hombres":2500,
+        "Cantidad_Votantes_Mujeres":2900,
+        "Total":5400,
+        "% Hombres":0.462962963,
+        "% Mujeres":0.537037037
+    },
+    {
+        "Departamento":"Boyacá",
+        "Cantidad_Votantes_Hombres":4100,
+        "Cantidad_Votantes_Mujeres":4300,
+        "Total":8400,
+        "% Hombres":0.4880952381,
+        "% Mujeres":0.5119047619
+    },
+    {
+        "Departamento":"Santander",
+        "Cantidad_Votantes_Hombres":5200,
+        "Cantidad_Votantes_Mujeres":5400,
+        "Total":10600,
+        "% Hombres":0.4905660377,
+        "% Mujeres":0.5094339623
+    }
+]

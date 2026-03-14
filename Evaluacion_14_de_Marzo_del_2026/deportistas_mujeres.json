@@ -1,0 +1,560 @@
+[
+    {
+        "nombre":"Mariana Pajón",
+        "edad":34,
+        "sexo":"Femenino",
+        "estatura":1.58,
+        "peso":53,
+        "deporte":"BMX",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Caterine Ibargüen",
+        "edad":42,
+        "sexo":"Femenino",
+        "estatura":1.81,
+        "peso":70,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Apartadó"
+    },
+    {
+        "nombre":"Linda Caicedo",
+        "edad":21,
+        "sexo":"Femenino",
+        "estatura":1.61,
+        "peso":53,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Yulimar Rojas (Invitada)",
+        "edad":30,
+        "sexo":"Femenino",
+        "estatura":1.92,
+        "peso":72,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Sara López",
+        "edad":31,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":65,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Pereira"
+    },
+    {
+        "nombre":"Maria Camila Osorio",
+        "edad":24,
+        "sexo":"Femenino",
+        "estatura":1.68,
+        "peso":62,
+        "deporte":"Tenis",
+        "ciudad_residencia":"Cúcuta"
+    },
+    {
+        "nombre":"Ingrit Valencia",
+        "edad":37,
+        "sexo":"Femenino",
+        "estatura":1.61,
+        "peso":51,
+        "deporte":"Boxeo",
+        "ciudad_residencia":"Ibagué"
+    },
+    {
+        "nombre":"Tatiana Calderón",
+        "edad":32,
+        "sexo":"Femenino",
+        "estatura":1.63,
+        "peso":58,
+        "deporte":"Automovilismo",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Lorena Arenas",
+        "edad":32,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":50,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Pereira"
+    },
+    {
+        "nombre":"Valeria Arboleda",
+        "edad":23,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":57,
+        "deporte":"Boxeo",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Martha Bayona",
+        "edad":30,
+        "sexo":"Femenino",
+        "estatura":1.65,
+        "peso":68,
+        "deporte":"Ciclismo de pista",
+        "ciudad_residencia":"Bucaramanga"
+    },
+    {
+        "nombre":"Leicy Santos",
+        "edad":29,
+        "sexo":"Femenino",
+        "estatura":1.6,
+        "peso":55,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Santa Cruz de Lorica"
+    },
+    {
+        "nombre":"Yenni Alvarez",
+        "edad":30,
+        "sexo":"Femenino",
+        "estatura":1.58,
+        "peso":59,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Turbo"
+    },
+    {
+        "nombre":"Mari Leivis Sánchez",
+        "edad":34,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":71,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Turbo"
+    },
+    {
+        "nombre":"Manuela Vanegas",
+        "edad":25,
+        "sexo":"Femenino",
+        "estatura":1.69,
+        "peso":63,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Copacabana"
+    },
+    {
+        "nombre":"Catalina Usme",
+        "edad":36,
+        "sexo":"Femenino",
+        "estatura":1.66,
+        "peso":60,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Marinilla"
+    },
+    {
+        "nombre":"Paula Patiño",
+        "edad":28,
+        "sexo":"Femenino",
+        "estatura":1.63,
+        "peso":52,
+        "deporte":"Ciclismo de ruta",
+        "ciudad_residencia":"La Ceja"
+    },
+    {
+        "nombre":"Carolina Arias",
+        "edad":35,
+        "sexo":"Femenino",
+        "estatura":1.63,
+        "peso":58,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Mayra Ramírez",
+        "edad":26,
+        "sexo":"Femenino",
+        "estatura":1.78,
+        "peso":70,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Sibaté"
+    },
+    {
+        "nombre":"Jorelyn Carabalí",
+        "edad":28,
+        "sexo":"Femenino",
+        "estatura":1.72,
+        "peso":65,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Jamundí"
+    },
+    {
+        "nombre":"Ana Maria Guzmán",
+        "edad":20,
+        "sexo":"Femenino",
+        "estatura":1.64,
+        "peso":57,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Mistrató"
+    },
+    {
+        "nombre":"Daniela Montoya",
+        "edad":35,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":56,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Natalia Gaitán",
+        "edad":34,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":62,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Yoreli Rincón",
+        "edad":32,
+        "sexo":"Femenino",
+        "estatura":1.68,
+        "peso":61,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Piedecuesta"
+    },
+    {
+        "nombre":"Nicole Regnier",
+        "edad":31,
+        "sexo":"Femenino",
+        "estatura":1.72,
+        "peso":63,
+        "deporte":"Fútbol",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Yuliana Lizarazo",
+        "edad":32,
+        "sexo":"Femenino",
+        "estatura":1.74,
+        "peso":65,
+        "deporte":"Tenis",
+        "ciudad_residencia":"Cúcuta"
+    },
+    {
+        "nombre":"Emiliana Arango",
+        "edad":25,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":60,
+        "deporte":"Tenis",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Diana Peñuela",
+        "edad":39,
+        "sexo":"Femenino",
+        "estatura":1.65,
+        "peso":55,
+        "deporte":"Ciclismo de ruta",
+        "ciudad_residencia":"Manizales"
+    },
+    {
+        "nombre":"Liliana Moreno",
+        "edad":33,
+        "sexo":"Femenino",
+        "estatura":1.55,
+        "peso":46,
+        "deporte":"Ciclismo de ruta",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Erika Botero",
+        "edad":25,
+        "sexo":"Femenino",
+        "estatura":1.6,
+        "peso":50,
+        "deporte":"Ciclismo de ruta",
+        "ciudad_residencia":"La Unión"
+    },
+    {
+        "nombre":"Lina Hernández",
+        "edad":26,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":54,
+        "deporte":"Ciclismo de ruta",
+        "ciudad_residencia":"El Carmen de Viboral"
+    },
+    {
+        "nombre":"Yarimar Mercado",
+        "edad":31,
+        "sexo":"Femenino",
+        "estatura":1.65,
+        "peso":60,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Pereira"
+    },
+    {
+        "nombre":"Ana Maria Rendón",
+        "edad":39,
+        "sexo":"Femenino",
+        "estatura":1.63,
+        "peso":62,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Valentina Acosta",
+        "edad":26,
+        "sexo":"Femenino",
+        "estatura":1.63,
+        "peso":56,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Pereira"
+    },
+    {
+        "nombre":"Nora Valdez",
+        "edad":28,
+        "sexo":"Femenino",
+        "estatura":1.65,
+        "peso":63,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Maria Monica Daza",
+        "edad":29,
+        "sexo":"Femenino",
+        "estatura":1.6,
+        "peso":58,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Sara Villalobos",
+        "edad":24,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":60,
+        "deporte":"Tiro con arco",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Diana Pineda",
+        "edad":41,
+        "sexo":"Femenino",
+        "estatura":1.6,
+        "peso":55,
+        "deporte":"Clavados",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Viviana Uribe",
+        "edad":24,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":56,
+        "deporte":"Clavados",
+        "ciudad_residencia":"Pereira"
+    },
+    {
+        "nombre":"Monica Sarai Arango",
+        "edad":33,
+        "sexo":"Femenino",
+        "estatura":1.68,
+        "peso":58,
+        "deporte":"Natación artística",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Estefanía Álvarez",
+        "edad":31,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":60,
+        "deporte":"Natación artística",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Isabella Arcila",
+        "edad":32,
+        "sexo":"Femenino",
+        "estatura":1.78,
+        "peso":66,
+        "deporte":"Natación",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Stefanía Gómez",
+        "edad":21,
+        "sexo":"Femenino",
+        "estatura":1.72,
+        "peso":62,
+        "deporte":"Natación",
+        "ciudad_residencia":"Pereira"
+    },
+    {
+        "nombre":"Karen Durango",
+        "edad":24,
+        "sexo":"Femenino",
+        "estatura":1.68,
+        "peso":59,
+        "deporte":"Natación",
+        "ciudad_residencia":"Medellín"
+    },
+    {
+        "nombre":"Sirena Rowe",
+        "edad":28,
+        "sexo":"Femenino",
+        "estatura":1.75,
+        "peso":64,
+        "deporte":"Natación",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Natalia Linares",
+        "edad":23,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":62,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Valledupar"
+    },
+    {
+        "nombre":"Flor Denis Ruiz",
+        "edad":35,
+        "sexo":"Femenino",
+        "estatura":1.75,
+        "peso":74,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Pradera"
+    },
+    {
+        "nombre":"Maria Lucelly Murillo",
+        "edad":34,
+        "sexo":"Femenino",
+        "estatura":1.72,
+        "peso":72,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Turbo"
+    },
+    {
+        "nombre":"Brigitte Merlano",
+        "edad":43,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":63,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Barranquilla"
+    },
+    {
+        "nombre":"Evelis Aguilar",
+        "edad":33,
+        "sexo":"Femenino",
+        "estatura":1.75,
+        "peso":68,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Apartadó"
+    },
+    {
+        "nombre":"Lina Licona",
+        "edad":27,
+        "sexo":"Femenino",
+        "estatura":1.68,
+        "peso":58,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Angie Orjuela",
+        "edad":36,
+        "sexo":"Femenino",
+        "estatura":1.62,
+        "peso":48,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Bogotá"
+    },
+    {
+        "nombre":"Melissa González",
+        "edad":31,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":60,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Barranquilla"
+    },
+    {
+        "nombre":"Valeria Cabezas",
+        "edad":25,
+        "sexo":"Femenino",
+        "estatura":1.72,
+        "peso":62,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Cali"
+    },
+    {
+        "nombre":"Martha Valeria Araujo",
+        "edad":29,
+        "sexo":"Femenino",
+        "estatura":1.74,
+        "peso":65,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Tumaco"
+    },
+    {
+        "nombre":"Mayra Gaviria",
+        "edad":29,
+        "sexo":"Femenino",
+        "estatura":1.7,
+        "peso":75,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Apartadó"
+    },
+    {
+        "nombre":"Sandra Lemos",
+        "edad":37,
+        "sexo":"Femenino",
+        "estatura":1.78,
+        "peso":95,
+        "deporte":"Atletismo",
+        "ciudad_residencia":"Pradera"
+    },
+    {
+        "nombre":"Ubaldina Valoyes",
+        "edad":43,
+        "sexo":"Femenino",
+        "estatura":1.65,
+        "peso":75,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Apartadó"
+    },
+    {
+        "nombre":"Mabel Mosquera",
+        "edad":56,
+        "sexo":"Femenino",
+        "estatura":1.58,
+        "peso":53,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Quibdó"
+    },
+    {
+        "nombre":"Leidy Solis",
+        "edad":36,
+        "sexo":"Femenino",
+        "estatura":1.64,
+        "peso":76,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Tuluá"
+    },
+    {
+        "nombre":"Rusmeris Villar",
+        "edad":42,
+        "sexo":"Femenino",
+        "estatura":1.55,
+        "peso":53,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Cartagena"
+    },
+    {
+        "nombre":"Nathalia Llamosa",
+        "edad":28,
+        "sexo":"Femenino",
+        "estatura":1.58,
+        "peso":64,
+        "deporte":"Levantamiento de pesas",
+        "ciudad_residencia":"Palmira"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Departamento": "Cauca",
+        "Cantidad_Votantes_Hombres": 1200,
+        "Cantidad_Votantes_Mujeres": 2400
+    },
+    {
+        "Departamento": "Huila",
+        "Cantidad_Votantes_Hombres": 4900,
+        "Cantidad_Votantes_Mujeres": 3950
+    },
+    {
+        "Departamento": "Antioquia",
+        "Cantidad_Votantes_Hombres": 8500,
+        "Cantidad_Votantes_Mujeres": 9100
+    },
+    {
+        "Departamento": "Valle del Cauca",
+        "Cantidad_Votantes_Hombres": 7200,
+        "Cantidad_Votantes_Mujeres": 7600
+    },
+    {
+        "Departamento": "Cundinamarca",
+        "Cantidad_Votantes_Hombres": 6400,
+        "Cantidad_Votantes_Mujeres": 7000
+    },
+    {
+        "Departamento": "Tolima",
+        "Cantidad_Votantes_Hombres": 3800,
+        "Cantidad_Votantes_Mujeres": 4200
+    },
+    {
+        "Departamento": "Nariño",
+        "Cantidad_Votantes_Hombres": 3000,
+        "Cantidad_Votantes_Mujeres": 3600
+    },
+    {
+        "Departamento": "Meta",
+        "Cantidad_Votantes_Hombres": 2500,
+        "Cantidad_Votantes_Mujeres": 2900
+    },
+    {
+        "Departamento": "Boyacá",
+        "Cantidad_Votantes_Hombres": 4100,
+        "Cantidad_Votantes_Mujeres": 4300
+    },
+    {
+        "Departamento": "Santander",
+        "Cantidad_Votantes_Hombres": 5200,
+        "Cantidad_Votantes_Mujeres": 5400
+    }
+]
